@@ -3533,3 +3533,5 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2022.12.02-11.05.21:727][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/CharacterBP/MainCharacter/Test_Character.Test_Character
 [2022.12.02-11.05.21:727][ 40]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/BP/CharacterBP/MainCharacter/Test_AnimBP_new.Test_AnimBP_new
 [2022.12.02-11.05.21:727][ 40]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.12.02-11.06.08:525][262]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - (Keyboard).
+[2022.12.02-11.06.08:532][262]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 搜狗拼音输入法 (TSF IME).
