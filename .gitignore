@@ -73,3 +73,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+ActProject/Saved/Logs/ActProject.log
+ActProject/Saved/Config/CrashReportClient/UECC-Windows-5A1CFCF8428A6D934B0EC5B45EA711C4/CrashReportClient.ini
+*.log
